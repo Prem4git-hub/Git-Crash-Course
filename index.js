@@ -9,3 +9,7 @@ function Sub(a, b){
 function newFeat(){
     console.log("new feature added A");
 }
+
+function newFeat2(){
+    console.log("new feature added B");
+}
